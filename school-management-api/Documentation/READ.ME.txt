@@ -1,0 +1,1 @@
+“This project is a Laravel API-based school management system where admins can manage student entries. It uses middleware for authentication and authorization, custom requests for validation, queue jobs for sending emails asynchronously, caching for performance, and Swagger for API documentation.”
